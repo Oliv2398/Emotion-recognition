@@ -4,3 +4,34 @@ datasets : [CKplus](https://www.kaggle.com/shawon10/ckplus), [FER2013](https://w
 
 
 
+
+
+## Architecture of the CNN
+
+![CNN](figures/model.png)
+
+## Examples of results 
+
+![surprise](figures/surprise.png)
+
+![happy](figures/happy.png)
+
+![sadness](figures/sadness.png)
+
+
+
+
+
+
+
+Latent space of the network for a training with 2 emotions :
+
+![latent_space_gif](figures/latent_space3d_emot2.gif)
+
+
+
+
+
+Latent space of the network for a training with 7 emotions :
+
+![latent_space_7](figures/emot7.png)
