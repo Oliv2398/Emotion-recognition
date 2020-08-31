@@ -4,6 +4,14 @@ datasets : [CKplus](https://www.kaggle.com/shawon10/ckplus), [FER2013](https://w
 
 
 
+<ins>Test accuracy : </ins>
+
+| CKplus | FER2013 | KDEF |
+| :----: | :-----: | :--: |
+| 100 %  |   67%   | 60%  |
+
+ 
+
 
 
 ## Architecture of the CNN
